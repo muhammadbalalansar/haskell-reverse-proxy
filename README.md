@@ -17,6 +17,6 @@ IN PROGRESS
 ⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄
 ```
 
-## License:
+## License :
 
 AGPL 3.0
