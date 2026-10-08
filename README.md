@@ -1,4 +1,4 @@
-## ⒸBalaltech | 2026
+## ⒸBalalTech | 2026
 IN PROGRESS
 ----
 # Ᾰenebris: Next Gen Reverse Proxy 
